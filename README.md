@@ -1,3 +1,3 @@
 # Denoising-Sound-GAN
 
-On progress ..
+Progressing ..
